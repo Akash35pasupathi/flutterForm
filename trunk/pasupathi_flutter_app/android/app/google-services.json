@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1068961987770",
+    "firebase_url": "https://flutterloginwith.firebaseio.com",
+    "project_id": "flutterloginwith",
+    "storage_bucket": "flutterloginwith.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068961987770:android:d849d75bdf816ba288d683",
+        "android_client_info": {
+          "package_name": "pasupathi.fluttertask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068961987770-341u0he8u2qjhtesa6ai8b44tfqim8ta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ40RCv3AW5wTDqUmj2UKaLccG38__Qvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068961987770-341u0he8u2qjhtesa6ai8b44tfqim8ta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
